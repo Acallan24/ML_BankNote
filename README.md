@@ -1,6 +1,9 @@
 # ML_Banknote
 Use machine learning to determine fake vs real bank notes.
-
+************************
+Project Description: The project uses "banknote authentication Data Set" provided by UCI to train a sample machine learning model and determines fake and real bank notes.  
+************************
+Dataset Information:
 
 Link to Dataset: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
 
